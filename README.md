@@ -1,2 +1,4 @@
 # hello-world
-test my study
+
+Hola a todos!
+Estas son mis test about lo que estoy estudiando!
